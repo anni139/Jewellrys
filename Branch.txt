@@ -1,0 +1,5 @@
+BranchID,BranchName,Location,ManagerID,SeatingCapacity,OpeningDate
+B001,Spicy Village,Bangalore,MGR001,50,2022-01-15
+B002,Madras Cafe,Chennai,MGR002,35,2021-11-20
+B003,God's Own Kitchen,Kochi,MGR003,60,2022-03-10
+B004,Andhra Spice,Hyderabad,MGR004,40,2021-09-05

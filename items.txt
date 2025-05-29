@@ -1,0 +1,5 @@
+ItemID,ItemName,Category,Price,Cost,VendorID
+IT001,Masala Dosa,Dosa,120,60,V001
+IT002,Idli Sambar,Idli,80,30,V002
+IT003,Medu Vada,Vada,90,40,V003
+IT004,Plain Dosa,Dosa,100,50,V001

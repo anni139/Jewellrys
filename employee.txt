@@ -1,0 +1,5 @@
+EmployeeID,Name,Role,BranchID,Salary,JoiningDate
+EMP001,Rajesh,Chef,B001,35000,2022-02-10
+EMP002,Priya,Manager,B001,50000,2022-01-15
+EMP003,Arun,Waiter,B002,20000,2021-12-05
+EMP004,Meena,Chef,B003,38000,2022-03-15
